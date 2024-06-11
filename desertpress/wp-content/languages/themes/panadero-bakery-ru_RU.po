@@ -1,0 +1,546 @@
+# Translation of Themes - Panadero Bakery in Russian
+# This file is distributed under the same license as the Themes - Panadero Bakery package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-30 09:02:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Panadero Bakery\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Panadero Bakery is a sleek, colourful, gorgeous, well-structured and feature-rich bakery WordPress theme. This multipurpose theme is designed for bakeries, cake and pastry shops, sweet shops, juice, smoothies and other beverages parlour, cafes, baker, chef, chocolate rooms, ice cream corner, dairy farm, coffee shop, cook, dessert, food court, eatery and small food joints, restaurants and other relevant businesses. It is fully compatible with WooCommerce plugin that offers beautiful product pages and fulfils other online store necessities at one place. This bakery WordPress theme is readily responsive, cross-browser compatible, translation ready and retina ready. It includes many social media icons to reach target audience easily. Panadero Bakery is customizable to its deepest core. It has multiple layout designs with and without sidebars and all the freedom to decide header and footer look. There are various sections predesigned like gallery, testimonial, services, pricing table, count of happy customers, video section etc. It is highly customizable to design the website according to your needs. This bakery theme has easy to understand backend interface which makes it easy to use the theme without requiring any previous coding knowledge. Demo: https://www.luzukdemo.com/demo/panadero-bakery/"
+msgstr "Panadero Bakery — это стильная, красочная, великолепная, хорошо структурированная и многофункциональная тема WordPress для пекарни. Эта многофункциональная тема предназначена для пекарен, кондитерских, кондитерских, салонов соков, смузи и других напитков, кафе, пекарей, шеф-поваров, шоколадных комнат, уголков с мороженым, молочной фермы, кафе, поваров, десертов, фуд-кортов, столовые и небольшие заведения общественного питания, рестораны и другие соответствующие предприятия. Он полностью совместим с плагином WooCommerce, который предлагает красивые страницы товаров и выполняет другие потребности интернет-магазина в одном месте. Эта тема WordPress для хлебобулочных изделий легко реагирует, совместима с разными браузерами, готова к переводу и сетчатке. Он включает в себя множество значков социальных сетей, позволяющих легко охватить целевую аудиторию. Panadero Bakery настраивается до глубины души. Он имеет несколько вариантов макета с боковыми панелями и без них, а также полную свободу выбора внешнего вида верхнего и нижнего колонтитула. Существуют различные предварительно разработанные разделы, такие как галерея, отзывы, услуги, таблица цен, количество довольных клиентов, раздел видео и т. д. Дизайн веб-сайта можно легко настроить в соответствии с вашими потребностями. Эта тема пекарни имеет простой для понимания внутренний интерфейс, который позволяет легко использовать тему, не требуя каких-либо предварительных знаний в области кодирования. Демо: https://www.luzukdemo.com/demo/panadero-bakery/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Panadero Bakery"
+msgstr "Panadero Bakery"
+
+#: inc/customizer.php:335
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:324
+msgid "Copyright Link"
+msgstr "Ссылка Copyright"
+
+#: inc/customizer.php:304
+msgid "Footer Setting"
+msgstr "Настройка подвала"
+
+#: template-parts/footer/site-info.php:13
+msgid "Bakery WordPress Theme By Luzuk"
+msgstr "Тема Bakery для WordPress от Luzuk"
+
+#: inc/customizer.php:218
+msgid "Slider Excerpt Length"
+msgstr "Длина отрывка слайдера"
+
+#: inc/customizer.php:347
+msgid "Copyright Top Bottom Padding"
+msgstr "Нижней внутренний отступ авторского права"
+
+#: inc/customizer.php:104
+msgid "Site Tagline Font Size"
+msgstr "Размер шрифта описания сайта"
+
+#: inc/customizer.php:75
+msgid "Site Title Font Size"
+msgstr "Размер шрифта названия сайта"
+
+#: inc/customizer.php:315
+msgid "Show / Hide Back to Top"
+msgstr "Перейти на верх показать/скрыть"
+
+#: functions.php:234
+msgid "https://www.luzukdemo.com/demo/panadero-bakery/"
+msgstr "https://www.luzukdemo.com/demo/panadero-bakery/"
+
+#: inc/customizer.php:35
+msgid "Bottom"
+msgstr "Снизу"
+
+#: inc/customizer.php:45
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer.php:55
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer.php:25
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/customizer.php:280
+msgid "Section Top Bottom Padding"
+msgstr "Нижней внутренний отступ верхнего раздела"
+
+#: inc/customizer.php:15
+msgid "Logo Padding"
+msgstr "Внутренний отступ логотипа"
+
+#: inc/getting-started/getting-started.php:53
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/getting-started/getting-started.php:57
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/getting-started/getting-started.php:58
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/getting-started/getting-started.php:59
+msgid "Pro Documentation"
+msgstr "Документация Pro"
+
+#: inc/getting-started/getting-started.php:63
+msgid "PREMIUM THEME FEATURES"
+msgstr "ФУНКЦИИ ПРЕМИУМ ТЕМЫ"
+
+#: inc/getting-started/getting-started.php:70
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/getting-started/getting-started.php:74
+msgid "Custom Innerpage Banner"
+msgstr "Пользовательские баннеры на внутренней странице"
+
+#: inc/getting-started/getting-started.php:78
+msgid "Custom Colors and Images"
+msgstr "Пользовательские цвета и изображения"
+
+#: inc/getting-started/getting-started.php:82
+msgid "Fully Responsive"
+msgstr "Полная совместимость"
+
+#: inc/getting-started/getting-started.php:86
+msgid "Hide/Show Sections"
+msgstr "Скрыть/показать разделы"
+
+#: inc/getting-started/getting-started.php:90
+msgid "Woocommerce Support"
+msgstr "Поддержка WooCommerce"
+
+#: inc/getting-started/getting-started.php:94
+msgid "Limit to display number of Posts"
+msgstr "Ограничение для отображения количества записей"
+
+#: inc/getting-started/getting-started.php:98
+msgid "Multiple Page Templates"
+msgstr "Несколько шаблонов страниц"
+
+#: inc/getting-started/getting-started.php:102
+msgid "Custom Read More link"
+msgstr "Пользовательская ссылка Читать далее"
+
+#: inc/getting-started/getting-started.php:106
+msgid "Code written with WordPress standard"
+msgstr "Код, написанный по стандарту WordPress"
+
+#: inc/getting-started/getting-started.php:110
+msgid "100% Multi language"
+msgstr "100% многоязычный"
+
+#: inc/getting-started/getting-started.php:66
+msgid "Banner Slider"
+msgstr "Слайдер баннера"
+
+#: inc/getting-started/getting-started.php:46
+msgid "Get started with Free Business Theme"
+msgstr "Начните с бесплатной темы Business"
+
+#: functions.php:74
+msgid "Welcome to Luzuk!!"
+msgstr "Добро пожаловать в Luzuk!!"
+
+#: functions.php:76
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: inc/getting-started/getting-started.php:5
+msgid "About Theme"
+msgstr "О теме"
+
+#: inc/getting-started/getting-started.php:31
+msgid "Start Customizing"
+msgstr "Начать настройку"
+
+#: inc/getting-started/getting-started.php:33
+msgid "Go to"
+msgstr "Перейти к"
+
+#: inc/getting-started/getting-started.php:33
+msgid "Customizer"
+msgstr "Настройка темы"
+
+#: inc/getting-started/getting-started.php:33
+msgid "and start customizing your website"
+msgstr "и начните настраивать свой сайт"
+
+#: inc/getting-started/getting-started.php:37
+#: inc/getting-started/getting-started.php:39
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/getting-started/getting-started.php:39
+msgid "Send your query to our"
+msgstr "Отправьте запрос на наш"
+
+#: functions.php:75
+msgid "Thank you for choosing Panadero Bakery theme. It will be our pleasure to have you on our Welcome page to serve you better."
+msgstr "Благодарим вас за выбор темы Panadero Bakery. Мы будем рады видеть вас на нашей приветственной странице, чтобы обслуживать вас лучше."
+
+#: functions.php:235
+msgid "https://www.luzukdemo.com/docs/panadero-bakery/"
+msgstr "https://www.luzukdemo.com/docs/panadero-bakery/"
+
+#: functions.php:236
+msgid "https://www.luzuk.com/product/bakery-wordpress-theme/"
+msgstr "https://www.luzuk.com/product/bakery-wordpress-theme/"
+
+#: functions.php:237
+msgid "https://wordpress.org/support/theme/panadero-bakery/"
+msgstr "https://wordpress.org/support/theme/panadero-bakery/"
+
+#: inc/getting-started/getting-started.php:25
+msgid "Welcome to Multicolor Business WordPress Theme"
+msgstr "Добро пожаловать в тему Multicolor Business WordPress"
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%s\">Начните здесь</a>."
+
+#: page-template/custom-home-page.php:116
+msgid "Header Design Image"
+msgstr "Дизайн изображения заголовка"
+
+#: searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr "Найти:"
+
+#: inc/customizer.php:65
+msgid "Show / Hide Site Title"
+msgstr "Название сайта: показать/скрыть"
+
+#: inc/customizer.php:94
+msgid "Show / Hide Site Tagline"
+msgstr "Краткое описание сайта: показать/скрыть"
+
+#: header.php:82
+msgid "Close Menu"
+msgstr "Закрыть меню"
+
+#: header.php:69
+msgid "Open Menu"
+msgstr "Открыть меню"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: header.php:72
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: template-parts/post/content-single.php:18 template-parts/post/content.php:22
+#: template-parts/post/grid-layout.php:17
+msgid "% Comments"
+msgstr "Комментарии %"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: inc/template-tags.php:19
+msgid ", "
+msgstr ", "
+
+#: functions.php:94 functions.php:104
+msgid "Add widgets here to appear in your pages and posts"
+msgstr "Добавьте сюда виджеты для их помещения на страницы и записи"
+
+#: functions.php:84
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:82
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская главная страница"
+
+#: functions.php:112
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:122
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:132
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:142
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: inc/customizer.php:125
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/customizer.php:477
+msgid "Go Pro"
+msgstr "Получить Pro"
+
+#: inc/customizer.php:146
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что ничего не было найдено в этом месте. Может, попробовать поискать?"
+
+#: inc/customizer.php:141
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: single.php:35 single.php:61 single.php:86 single.php:111 single.php:138
+#: single.php:166 single.php:194
+msgid "Next"
+msgstr "Далее"
+
+#: archive.php:50 archive.php:83 archive.php:116 archive.php:148
+#: archive.php:182 archive.php:217 archive.php:250 index.php:51 index.php:86
+#: index.php:120 index.php:155 index.php:191 index.php:227 index.php:257
+#: search.php:53 search.php:89 search.php:126 search.php:161 search.php:200
+#: search.php:237 search.php:271
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: single.php:35 single.php:61 single.php:86 single.php:111 single.php:138
+#: single.php:166 single.php:194
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: search.php:18 template-parts/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/customizer.php:143
+msgid "One Column"
+msgstr "Один столбец"
+
+#. translators: %s: post title
+#: comments.php:23
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: archive.php:51 archive.php:84 archive.php:117 archive.php:149
+#: archive.php:183 archive.php:218 archive.php:251 index.php:52 index.php:87
+#: index.php:121 index.php:156 index.php:192 index.php:228 index.php:258
+#: search.php:54 search.php:90 search.php:127 search.php:162 search.php:201
+#: search.php:238 search.php:272
+msgid "Page"
+msgstr "Страница"
+
+#: template-parts/page/content-page.php:21
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: archive.php:49 archive.php:82 archive.php:115 archive.php:147
+#: archive.php:181 archive.php:216 archive.php:249 index.php:50 index.php:85
+#: index.php:119 index.php:154 index.php:190 index.php:226 index.php:256
+#: search.php:52 search.php:88 search.php:125 search.php:160 search.php:199
+#: search.php:236 search.php:270
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: single.php:34 single.php:60 single.php:85 single.php:110 single.php:137
+#: single.php:165 single.php:193
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: functions.php:35
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: page-template/custom-home-page.php:62 template-parts/post/content.php:26
+#: template-parts/post/grid-layout.php:26
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: 404.php:19
+msgid "Return to home page"
+msgstr "Вернуться на главную страницу"
+
+#: inc/customizer.php:142
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: searchform.php:18
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#. translators: %s: search term
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: functions.php:92
+msgid "Sidebar 2"
+msgstr "Область виджетов 2"
+
+#: functions.php:102
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: inc/customizer.php:184
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:121
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: inc/customizer.php:144
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: inc/customizer.php:145
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#. Template Name of the theme
+msgid "Page right sidebar"
+msgstr "Правая область виджетов страницы"
+
+#. Template Name of the theme
+msgid "Page left sidebar"
+msgstr "Левая область виджетов страницы"
+
+#: inc/customizer.php:138
+msgid "Do you want this section"
+msgstr "Вы хотите, чтобы этот раздел"
+
+#: single.php:34 single.php:60 single.php:85 single.php:110 single.php:137
+#: single.php:165 single.php:193
+msgid "Previous"
+msgstr "Назад"
+
+#: index.php:19
+msgid "Posts"
+msgstr "Записи"
+
+#: inc/customizer.php:206
+msgid "Select Slide Image Page"
+msgstr "Выбрать страницу с изображением слайда"
+
+#: template-parts/post/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищите. Возможно, поможет поиск."
+
+#: template-parts/post/content-single.php:18 template-parts/post/content.php:22
+#: template-parts/post/grid-layout.php:17
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: functions.php:114 functions.php:124 functions.php:134 functions.php:144
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале."
+
+#: search.php:42 search.php:78 search.php:115 search.php:150 search.php:189
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: inc/customizer.php:195
+msgid "Show / Hide slider"
+msgstr "Слайдер: показать/скрыть"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:40
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Изменить<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: inc/customizer.php:196
+msgid "Image Size ( 1600px x 582px )"
+msgstr "Размер изображения (1600px x 582px)"
+
+#: inc/customizer.php:269
+msgid "Select Product Page"
+msgstr "Выберите страницу товара"
+
+#: searchform.php:16
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: inc/customizer.php:260
+msgid "Featured products"
+msgstr "Рекомендуемые товары"
+
+#: inc/customizer.php:476
+msgid "Panadero Bakery Pro"
+msgstr "Panadero Bakery Pro"
+
+#: functions.php:242
+msgid "Bakery WordPress Theme"
+msgstr "WordPress тема для пекарни"
+
+#: inc/getting-started/getting-started.php:43
+msgid "Panadero Bakery is a sleek, colourful, gorgeous, well-structured and feature-rich bakery WordPress theme. This multipurpose theme is designed for bakeries, cake and pastry shops, sweet shops, juice, smoothies and other beverages parlour, cafés, chocolate rooms, ice cream corner, dairy farm, coffee shop, food court, eatery and small food joints, restaurants and other relevant businesses. It is fully compatible with WooCommerce plugin that offers beautiful product pages and fulfils other online store necessities at one place. This bakery WordPress theme is readily responsive, cross-browser compatible, translation ready and retina ready. It includes many social media icons to reach target audience easily. Panadero Bakery is customizable to its deepest core. It has multiple layout designs with and without sidebars and all the freedom to decide header and footer look. There are various sections predesigned like gallery, testimonial, services, pricing table, count of happy customers, video section etc. It is highly customizable to design the website according to your needs. This bakery theme has easy to understand backend interface which makes it easy to use the theme without requiring any previous coding knowledge."
+msgstr "Panadero Bakery — это стильная, красочная, великолепная, хорошо структурированная и многофункциональная тема WordPress для пекарни. Эта многофункциональная тема предназначена для пекарен, кондитерских, кондитерских, салонов соков, смузи и других напитков, кафе, шоколадных комнат, уголков с мороженым, молочной фермы, кафе, фуд-кортов, закусочных и небольших закусочных, ресторанов и т. д. другие соответствующие предприятия. Он полностью совместим с плагином WooCommerce, который предлагает красивые страницы товаров и выполняет другие потребности интернет-магазина в одном месте. Эта тема WordPress для хлебобулочных изделий легко реагирует, совместима с разными браузерами, готова к переводу и сетчатке. Он включает в себя множество значков социальных сетей, позволяющих легко охватить целевую аудиторию. Panadero Bakery настраивается до глубины души. Он имеет несколько вариантов макета с боковыми панелями и без них, а также полную свободу выбора внешнего вида верхнего и нижнего колонтитула. Существуют различные предварительно разработанные разделы, такие как галерея, отзывы, услуги, таблица цен, количество довольных клиентов, раздел видео и т. д. Дизайн веб-сайта можно легко настроить в соответствии с вашими потребностями. Эта тема пекарни имеет простой для понимания внутренний интерфейс, который позволяет легко использовать тему, не требуя каких-либо предварительных знаний в области кодирования."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.luzuk.com/"
+msgstr "https://www.luzuk.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Luzuk"
+msgstr "Luzuk"
+
+#. Theme URI of the theme
+#: style.css functions.php:238 template-parts/footer/site-info.php:13
+#, gp-priority: low
+msgid "https://www.luzuk.com/themes/free-bakery-wordpress-theme/"
+msgstr "https://www.luzuk.com/themes/free-bakery-wordpress-theme/"

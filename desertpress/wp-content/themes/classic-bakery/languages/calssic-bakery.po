@@ -1,0 +1,386 @@
+msgid ""
+msgstr "" 
+"Project-Id-Version: Classic Bakery\n"
+"POT-Creation-Date: 2022-12-01 20:24+2\n"
+"PO-Revision-Date: 2022-12-01 20:24+2\n"
+"Last-Translator: \n"
+"Language-Team: classictemplate <support@theclassictemplates.com>\n"
+"Language: en_US\n"
+"MIME-Version: 0.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: template-home-page.php:43
+msgid "Shop Now"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:20
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:24
+msgid "Edit"
+msgstr ""
+
+#: template-full-width.php:26
+msgid "Pages:"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""
+
+#: customizer.php:37
+msgid "Logo Width"
+msgstr ""
+
+#: customizer.php:54
+msgid "Enable Site Title"
+msgstr ""
+
+#: customizer.php:68
+msgid "Site Title Color"
+msgstr ""
+
+#: customizer.php:79
+msgid "Enable Site Tagline"
+msgstr ""
+
+#: customizer.php:93
+msgid "Site Tagline Color"
+msgstr ""
+
+#: customizer.php:99
+msgid "WooCommerce Page Settings"
+msgstr ""
+
+#: customizer.php:111
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: customizer.php:114
+msgid "Left Sidebar"
+msgstr ""
+
+#: customizer.php:115
+msgid "Right Sidebar"
+msgstr ""
+
+#: customizer.php:123
+msgid "Theme Options Panel"
+msgstr ""
+
+#: customizer.php:128
+msgid "Manage Site Layout Section "
+msgstr ""
+
+#: customizer.php:129
+msgid "<p class=\"sec-title\">Manage Site Layout Section</p>"
+msgstr ""
+
+#: customizer.php:140
+msgid "Check to Show preloader"
+msgstr ""
+
+#: customizer.php:146
+msgid "Manage Header Section"
+msgstr ""
+
+#: customizer.php:147
+msgid "<p class=\"sec-title\">Manage Header Section</p>"
+msgstr ""
+
+#: customizer.php:160
+msgid "Button Text"
+msgstr ""
+
+#: customizer.php:172
+msgid "Button Link"
+msgstr ""
+
+#: customizer.php:186 customizer.php:520
+msgid " Button Color"
+msgstr ""
+
+#: customizer.php:200
+msgid " Button Border Color"
+msgstr ""
+
+#: customizer.php:214 customizer.php:534
+msgid " Button Text Color"
+msgstr ""
+
+#: customizer.php:228 customizer.php:548
+msgid " Button Hover Color"
+msgstr ""
+
+#: customizer.php:242 customizer.php:822
+msgid " Icon Color"
+msgstr ""
+
+#: customizer.php:256 customizer.php:836
+msgid " Icon Border Color"
+msgstr ""
+
+#: customizer.php:270 customizer.php:850
+msgid " Icon Hover Color"
+msgstr ""
+
+#: customizer.php:284 customizer.php:298
+msgid " Icon Hover BG Color"
+msgstr ""
+
+#: customizer.php:312
+msgid " Menus Color"
+msgstr ""
+
+#: customizer.php:326
+msgid " Menus Hover Color"
+msgstr ""
+
+#: customizer.php:340
+msgid " SubMenus Color"
+msgstr ""
+
+#: customizer.php:354
+msgid " SubMenus Hover Color"
+msgstr ""
+
+#: customizer.php:368
+msgid " SubMenus BG Color"
+msgstr ""
+
+#: customizer.php:382
+msgid " SubMenus Border Color"
+msgstr ""
+
+#: customizer.php:396
+msgid " Search Border Color"
+msgstr ""
+
+#: customizer.php:410
+msgid " Scroll Border Color"
+msgstr ""
+
+#: customizer.php:416
+msgid "Manage Social media Section"
+msgstr ""
+
+#: customizer.php:417
+msgid "<p class=\"sec-title\">Manage Social media Section</p>"
+msgstr ""
+
+#: customizer.php:430
+msgid "Facebook Link"
+msgstr ""
+
+#: customizer.php:442
+msgid "Twitter Link"
+msgstr ""
+
+#: customizer.php:454
+msgid "Instagram Link"
+msgstr ""
+
+#: customizer.php:460
+msgid "Manage Slider Section"
+msgstr ""
+
+#: customizer.php:461
+msgid ""
+"<p class=\"sec-title\">Manage Slider Section</p> Select Category from the "
+"Dropdowns for slider, Also use the given image dimension (1200 x 450)."
+msgstr ""
+
+#: customizer.php:474 customizer.php:667
+msgid "Check To Enable This Section"
+msgstr ""
+
+#: customizer.php:484
+msgid "Select the post category to show slider"
+msgstr ""
+
+#: customizer.php:496
+msgid "Add Button Text"
+msgstr ""
+
+#: customizer.php:505
+msgid "Add Button Link"
+msgstr ""
+
+#: customizer.php:562
+msgid " Title Color"
+msgstr ""
+
+#: customizer.php:576
+msgid " Description Color"
+msgstr ""
+
+#: customizer.php:590
+msgid " Arrow Color"
+msgstr ""
+
+#: customizer.php:603
+msgid " Arrow Hover Color"
+msgstr ""
+
+#: customizer.php:617
+msgid "Opacity"
+msgstr ""
+
+#: customizer.php:637
+msgid " Opacity Color"
+msgstr ""
+
+#: customizer.php:653
+msgid "Manage Category Section"
+msgstr ""
+
+#: customizer.php:654
+msgid "<p class=\"sec-title\">Manage Category Section</p>"
+msgstr ""
+
+#: customizer.php:681
+msgid " Title  Color"
+msgstr ""
+
+#: customizer.php:695
+msgid " Box Color"
+msgstr ""
+
+#: customizer.php:710
+msgid " Box Outline  Color"
+msgstr ""
+
+#: customizer.php:726
+msgid "Manage Post Section"
+msgstr ""
+
+#: customizer.php:738
+msgid "Theme Post Sidebar Position"
+msgstr ""
+
+#: customizer.php:739
+msgid ""
+"This option work for blog page, blog single page, archive page and search "
+"page."
+msgstr ""
+
+#: customizer.php:742
+msgid "Full"
+msgstr ""
+
+#: customizer.php:743
+msgid "Left"
+msgstr ""
+
+#: customizer.php:744
+msgid "Right"
+msgstr ""
+
+#: customizer.php:745
+msgid "Three Columns"
+msgstr ""
+
+#: customizer.php:746
+msgid "Four Columns"
+msgstr ""
+
+#: customizer.php:747
+msgid "Grid Layout"
+msgstr ""
+
+#: customizer.php:757
+msgid "Post Description Length"
+msgstr ""
+
+#: customizer.php:760
+msgid "No Content"
+msgstr ""
+
+#: customizer.php:761
+msgid "Excerpt Content"
+msgstr ""
+
+#: customizer.php:762
+msgid "Full Content"
+msgstr ""
+
+#: customizer.php:768
+msgid "Manage Footer Section"
+msgstr ""
+
+#: customizer.php:769
+msgid "<p class=\"sec-title\">Manage Footer Section</p>"
+msgstr ""
+
+#: customizer.php:779
+msgid "Copyright Line"
+msgstr ""
+
+#: customizer.php:794
+msgid " Copyright Text Color"
+msgstr ""
+
+#: customizer.php:808
+msgid " BG Color"
+msgstr ""
+
+#: customizer.php:859
+msgid "Check To Show Scroll To Top"
+msgstr ""
+
+#: customizer.php:885
+msgid "Color Scheme"
+msgstr ""
+
+#: customizer.php:893
+msgid "Google Fonts"
+msgstr ""
+
+#: customizer.php:966
+msgid "Select your desired font for the headings."
+msgstr ""
+
+#: customizer.php:976
+msgid "Select your desired font for the body."
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:71
+msgid "MENU"
+msgstr ""
+
+#: header.php:76
+msgid "Top Menu"
+msgstr ""
+
+#: header.php:86
+msgid "CLOSE"
+msgstr ""
+
+#: footer.php:42
+msgid "Bakery WordPress Theme"
+msgstr ""
+
+#: footer.php:51
+msgid "TOP"
+msgstr ""
